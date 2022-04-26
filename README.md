@@ -3,13 +3,13 @@ API REST de una aplicación para administrar palabras permitidas en mensajes de 
 
 Esta API fue creada siguiendo el patrón MVC con NodeJS
 
-##Dependencias
+## Dependencias
 Express
 Mongoose
 Dotenv
 Nodemon (en el modo de desarrollo)
 
-##Ejecución
+## Ejecución
 ```
 $ #Instalación de dependencias
 $ npm i
