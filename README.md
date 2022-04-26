@@ -18,4 +18,4 @@ $ npm start
 $ #Ó
 $ npm run dev
 ```
-Se le pueden asignar variables de entorno como el puerto (PORT) o la uri para conectar con la BD (URI_BD)
+Se le pueden asignar variables de entorno como el puerto (PORT en index.js) o la uri para conectar con la BD (URI_BD en connectinonDB.js)
